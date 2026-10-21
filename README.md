@@ -1,3 +1,6 @@
+# Cambio en GitHub
+* Este cambio fue hecho directamente en GitHub
+
 # Taller 2 (Laboratorio): Configuración de uso de Git y GitHub
 
 ## Actividades
